@@ -1,5 +1,5 @@
 route	count
-main	8184
+main	8185
 main-archive	1113
 main-rabota	1047
 main-internet	897
@@ -12,8 +12,8 @@ main-rabota-archive	170
 main-archive-rabota	167
 main-bonus-archive	143
 main-rabota-bonus	139
-main-news-rabota	135
 main-bonus-rabota	135
+main-news-rabota	135
 main-archive-internet	132
 main-rabota-news	130
 main-internet-rabota	129
@@ -22,8 +22,8 @@ main-rabota-internet	124
 main-internet-archive	123
 main-archive-bonus	117
 main-internet-bonus	115
-main-tariffs-internet	114
 main-news-archive	113
+main-tariffs-internet	113
 main-news-internet	109
 main-archive-tariffs	104
 main-internet-news	103
